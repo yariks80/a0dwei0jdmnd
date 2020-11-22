@@ -8,6 +8,11 @@ public class Main {
         int sum=0;
         for (String s : "3241".split("")) {
             System.out.println(Integer.parseInt(s));
+            System.out.println(Integer.parseInt(s));
+            System.out.println(Integer.parseInt(s));
+            System.out.println(Integer.parseInt(s));
+            System.out.println(Integer.parseInt(s));
+            System.out.println(Integer.parseInt(s));
         }
 
 
